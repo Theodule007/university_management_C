@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1609891286 source:c:\users\alt\documents\manager\main.c
+	"headers.h"
+
+1609956479 c:\users\alt\documents\manager\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<dos.h>
+
+1609624273 source:c:\users\alt\documents\manager\template.c
+	"headers.h"
+
+1609950547 source:c:\users\alt\documents\manager\test.c
+	"headers.h"
+
+1609978406 source:c:\users\alt\documents\manager\functions.c
+	"headers.h"
+
+1609977025 source:c:\users\alt\documents\manager\graphicfunctions.c
+	"headers.h"
+
+1611118047 source:c:\users\simil gralda\documents\manager_university\university_manager-main\projet _uniq_final\manager\functions.c
+	"headers.h"
+
+1611108396 c:\users\simil gralda\documents\manager_university\university_manager-main\projet _uniq_final\manager\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<dos.h>
+
+1611121910 source:c:\users\simil gralda\documents\manager_university\university_manager-main\projet _uniq_final\manager\graphicfunctions.c
+	"headers.h"
+
+1610847029 source:c:\users\simil gralda\documents\manager_university\university_manager-main\projet _uniq_final\manager\main.c
+	"headers.h"
+
+1610847029 source:c:\users\simil gralda\documents\manager_university\university_manager-main\projet _uniq_final\manager\test.c
+	"headers.h"
+
